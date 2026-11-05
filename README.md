@@ -1,4 +1,4 @@
-### Hello there! I’m Rachel! 🧬
+### Howdy! I’m Rachel! 🧬
 ---
 I am a computational biologist who uses large 'omics data to study disease in a holobiont system. My work brings together host–microbe biology, bioinformatics, and machine learning to understand how organisms and their microbial partners respond to disease. I integrate 'omics data blocks to identify candidate biomarkers and investigate the biological processes behind those patterns.
 
